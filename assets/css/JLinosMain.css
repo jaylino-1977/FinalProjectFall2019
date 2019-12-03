@@ -600,6 +600,7 @@ nav a:hover, .dropdown:hover .dropbtn {
 	background-image:url("../images/VeggieSideBG.png");
 	background-position: center;
 	background-repeat: none;
+	background-attachment: fixed;
 }
 #MealPlans h1 {
 	font-family: 'Roboto Slab', serif;
